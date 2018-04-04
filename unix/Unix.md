@@ -8,6 +8,9 @@ unzip /path/to/file.zip -d /path/to/extraction/directory
 ```
 ## SoX - sound exchange
 1) convert gsm files to .wav
+```shell
+sox -S 8000 <input.gsm> <output.wav>
+```
 
 ## Screen
 1) list screens
