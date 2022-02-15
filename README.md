@@ -2,4 +2,4 @@
 A collection of useful commands
 
 ## Unix
-[unix](#unix)
+[unix](#unix/)
