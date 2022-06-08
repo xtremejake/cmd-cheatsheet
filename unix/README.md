@@ -25,3 +25,7 @@ screen -r <pid of screen you wish to resume>
 ```shell
 screen -X -S <pid of screen you wish to kill> quit
 ``` 
+4) detach screen
+```
+Ctrl+A Ctrl+D
+```
